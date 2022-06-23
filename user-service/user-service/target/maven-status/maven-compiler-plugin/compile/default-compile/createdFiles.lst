@@ -1,0 +1,6 @@
+com\Microservices\userservice\service\UserService.class
+com\Microservices\userservice\repository\UserRepository.class
+com\Microservices\userservice\VO\Department.class
+com\Microservices\userservice\controller\UserController.class
+com\Microservices\userservice\VO\ResponseTemplateVO.class
+com\Microservices\userservice\UserServiceApplication.class
